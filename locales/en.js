@@ -183,5 +183,6 @@
 	"A user with that email does not exist.": "A user with that email does not exist.",
 	"Visible state": "Visible state",
 	"Public": "Public",
-	"Private": "Private"
+	"Private": "Private",
+	"All unused files have been removed": "All unused files have been removed"
 }
